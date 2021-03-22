@@ -1,0 +1,25 @@
+{
+  "name": "form_demo",
+  "version": "1.0.0",
+  "description": "a form demonstration",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lite20/form_demo.git"
+  },
+  "author": "lite20",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lite20/form_demo/issues"
+  },
+  "homepage": "https://github.com/lite20/form_demo#readme",
+  "dependencies": {
+    "cryptr": "^6.0.2",
+    "express": "^4.17.1",
+    "helmet": "^4.4.1"
+  }
+}
